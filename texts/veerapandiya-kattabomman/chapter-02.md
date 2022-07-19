@@ -18,5 +18,5 @@ Bommu loved hunting. One day when he went for a hunt he saw a strange thing happ
 
 In this lineage, there was a king named Veerapandiya Nayakkar who was the 44th king of Panchalankurichi. He was succeeded by his son Pal Pandiyan who was the grandfather of Veerapandiya Kattabomman. Next to Pal Pandiyan, Panchalankuruchi was ruled by his son Jagaveera Pandiyan (Veerapandiya Kattabomman's father). Jaga Veerapandiyan and his wife Arumugathammal give birth to a baby boy. That boy was named Veerapandiyan. This boy went on to become the famous hero Veerapandiya Kattabomman.
 
-<span class="prev">[Previous](./chapter-1.md)</span>
-<span class="next">[Next](./chapter-3.md)</span>
+<span class="prev">[Previous](./chapter-01.md)</span>
+<span class="next">[Next](./chapter-03.md)</span>

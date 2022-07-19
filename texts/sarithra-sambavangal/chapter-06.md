@@ -36,4 +36,4 @@ Thodarmal had now aged. He wanted to spend his last leg of life at Haridwar. His
 
 14 days after this incident, Thodarmal was killed by an enemy. The person who killed him had been punished by Thodarmal for some crime earlier and wanted revenge. It is indeed sad that this wise and able administrator had a such disgraceful end to his life
 
-<span class="prev">[Previous](./chapter-5.md)</span>
+<span class="prev">[Previous](./chapter-05.md)</span>

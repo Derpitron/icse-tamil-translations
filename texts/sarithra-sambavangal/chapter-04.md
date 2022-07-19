@@ -37,5 +37,5 @@ Betrayal, Cunningness and vengeance won, Aurangazeb killed all his brothers and 
 
 Chhatrasal was not only a great warrior. He was a great devotee of lord krishna and had an eye for art. He constructed a temple called 'Kishor' in Patan. Till date, There exists a fort called 'Chatramahal' in his remembrance, in Pandi.
 
-<span class="prev">[Previous](./chapter-3.md)</span>
-<span class="next">[Next](./chapter-5.md)<span>
+<span class="prev">[Previous](./chapter-03.md)</span>
+<span class="next">[Next](./chapter-05.md)<span>

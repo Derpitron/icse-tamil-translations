@@ -20,5 +20,5 @@ Kattabomman also decided to meet him at Kamuthi. However he went grandly with hi
 
 After writing such a reply Kattabomman decided to go to Panchalankurichi since he felt that there was no use in meeting Lusington. It is indeed peculiar that this meeting between Lusington and Kattabomman didn't happen at all considering the fact that they stayed just three buildings away while they were at Kamuthi.
 
-<span class="prev">[Previous](./chapter-6.md)</span>
-<span class="next">[Next](./chapter-8.md)</span>
+<span class="prev">[Previous](./chapter-06.md)</span>
+<span class="next">[Next](./chapter-08.md)</span>
