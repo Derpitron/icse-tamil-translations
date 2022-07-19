@@ -3,6 +3,7 @@ title: Veerapandiya Kattabomman Chapter Selection
 ---
 
 ## Veerapandiya Kattabomman Chapter Index
+**Important: Some chapters are missing details such as dates and names**
 ---
 - [Chapter 1](veerapandiya-kattabomman/chapter-01)
 - [Chapter 2](veerapandiya-kattabomman/chapter-02)
